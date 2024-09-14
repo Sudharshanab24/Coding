@@ -10,11 +10,9 @@ class Solution {
         {
             res[i]*=pre;
             pre*=nums[i];
-        }
-        for(int i=n-1;i>=0;i--)
-        {
-            res[i]*=post;
-            post*=nums[i];
+
+            res[n-i-1]*=post;
+            post*=nums[n-1-i];
         }
         return res;
     }
