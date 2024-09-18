@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Sudharshanab24/Coding/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Sudharshanab24/Coding/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Sudharshanab24/Coding/tree/master/0238-product-of-array-except-self) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Sudharshanab24/Coding/tree/master/0055-jump-game) |
 ## Greedy
 |  |
@@ -36,5 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Sudharshanab24/Coding/tree/master/0075-sort-colors) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
