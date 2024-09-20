@@ -4,10 +4,12 @@ class Solution {
         for (int i = 0; i < s.length(); ++i) {
             ++cnt[s.charAt(i) - 'a'];
         }
-        for (int i = 0;; ++i) {
+        for (int i = 0;i<t.length(); ++i) {
             if (--cnt[t.charAt(i) - 'a'] < 0) {
                 return t.charAt(i);
             }
         }
+
+        return ' ';
     }
 }
