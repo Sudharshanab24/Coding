@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sudharshanab24/Coding/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Sudharshanab24/Coding/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Sudharshanab24/Coding/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Sudharshanab24/Coding/tree/master/0070-climbing-stairs) |
 ## Greedy
 |  |
 | ------- |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Sudharshanab24/Coding/tree/master/0389-find-the-difference) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Sudharshanab24/Coding/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
