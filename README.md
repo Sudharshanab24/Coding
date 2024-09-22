@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Sudharshanab24/Coding/tree/master/0006-zigzag-conversion) |
 | [0344-reverse-string](https://github.com/Sudharshanab24/Coding/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Sudharshanab24/Coding/tree/master/0389-find-the-difference) |
 | [0874-backspace-string-compare](https://github.com/Sudharshanab24/Coding/tree/master/0874-backspace-string-compare) |
