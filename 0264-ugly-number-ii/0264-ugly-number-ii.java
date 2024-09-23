@@ -1,21 +1,25 @@
-class Solution {
-    public int nthUglyNumber(int n) {
-        int[] num = new int[1690];
-        num[0] = 1;
-        int ugly = 0, i2 = 0, i3 = 0, i5 = 0;
+class Solution
+{
+    public int nthUglyNumber(int n)
+    {
+        List<Integer> ugl=new ArrayList<Integer>();
+        ugl.add(1);
 
-        for (int i = 1; i < 1690; i++) {
-            num[i] = Math.min(Math.min(2 * num[i2], 3 * num[i3]), 5 * num[i5]);
-            ugly = num[i];
+        int i2=0;
+        int i3=0;
+        int i5=0;
 
-            if (num[i2] * 2 == ugly)
-                i2++;
-            if (num[i3] * 3 == ugly)
-                i3++;
-            if (num[i5] * 5 == ugly)
-                i5++;
+        while(ugl.size()<n)
+        {
+            final int n2=ugl.get(i2)*2;
+            final int n3=ugl.get(i3)*3;
+            final int n5=ugl.get(i5)*5;
+            final int nt=Math.min(Math.min(n2,n3),n5);
+            if(nt==n2) i2++;
+            if(nt==n3) i3++;
+            if(nt==n5) i5++;
+            ugl.add(nt);
         }
-
-        return num[n - 1];
+        return ugl.get(ugl.size()-1);
     }
 }
