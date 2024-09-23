@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Sudharshanab24/Coding/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Sudharshanab24/Coding/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Sudharshanab24/Coding/tree/master/0273-integer-to-english-words) |
+| [0279-perfect-squares](https://github.com/Sudharshanab24/Coding/tree/master/0279-perfect-squares) |
 | [0398-random-pick-index](https://github.com/Sudharshanab24/Coding/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sudharshanab24/Coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Array
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sudharshanab24/Coding/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sudharshanab24/Coding/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/Sudharshanab24/Coding/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Sudharshanab24/Coding/tree/master/0279-perfect-squares) |
 ## Greedy
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/Sudharshanab24/Coding/tree/master/0273-integer-to-english-words) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Sudharshanab24/Coding/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
