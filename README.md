@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Sudharshanab24/Coding/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Sudharshanab24/Coding/tree/master/0238-product-of-array-except-self) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2755-extra-characters-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/2755-extra-characters-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Sudharshanab24/Coding/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/Sudharshanab24/Coding/tree/master/0279-perfect-squares) |
 | [0464-can-i-win](https://github.com/Sudharshanab24/Coding/tree/master/0464-can-i-win) |
+| [2755-extra-characters-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sudharshanab24/Coding/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Sudharshanab24/Coding/tree/master/0389-find-the-difference) |
 | [0874-backspace-string-compare](https://github.com/Sudharshanab24/Coding/tree/master/0874-backspace-string-compare) |
+| [2755-extra-characters-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/2755-extra-characters-in-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -87,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/Sudharshanab24/Coding/tree/master/0264-ugly-number-ii) |
 | [0389-find-the-difference](https://github.com/Sudharshanab24/Coding/tree/master/0389-find-the-difference) |
 | [0398-random-pick-index](https://github.com/Sudharshanab24/Coding/tree/master/0398-random-pick-index) |
+| [2755-extra-characters-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/2755-extra-characters-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Sudharshanab24/Coding/tree/master/0386-lexicographical-numbers) |
+| [2755-extra-characters-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/2755-extra-characters-in-a-string) |
 ## Number Theory
 |  |
 | ------- |
