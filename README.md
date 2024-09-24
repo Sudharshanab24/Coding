@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Sudharshanab24/Coding/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Sudharshanab24/Coding/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sudharshanab24/Coding/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Sudharshanab24/Coding/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Sudharshanab24/Coding/tree/master/0264-ugly-number-ii) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sudharshanab24/Coding/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Sudharshanab24/Coding/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/Sudharshanab24/Coding/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Sudharshanab24/Coding/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Sudharshanab24/Coding/tree/master/0238-product-of-array-except-self) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
