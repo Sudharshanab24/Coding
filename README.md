@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sudharshanab24/Coding/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Sudharshanab24/Coding/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Sudharshanab24/Coding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sudharshanab24/Coding/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sudharshanab24/Coding/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0074-search-a-2d-matrix) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Sudharshanab24/Coding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sudharshanab24/Coding/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sudharshanab24/Coding/tree/master/0070-climbing-stairs) |
 | [0264-ugly-number-ii](https://github.com/Sudharshanab24/Coding/tree/master/0264-ugly-number-ii) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0074-search-a-2d-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sudharshanab24/Coding/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
