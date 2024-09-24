@@ -12,7 +12,7 @@ class Solution {
                     sum += code[(i + j) % code.length];
                 }
                 ans[i] = sum;
-            }
+            }    
         }
         else {
             for (int i = 0; i < code.length; i++) {
