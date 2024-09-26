@@ -7,8 +7,6 @@ class Solution {
         Arrays.sort(nums1);
         Arrays.sort(nums2);
 
-        int nums[]=new int[(n1<n2)?n1:n2];
-
         int i=0,j=0,k=0;
 
         while(i<n1 && j<n2)
