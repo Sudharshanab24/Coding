@@ -1,20 +1,21 @@
-import java.util.ArrayList;
-import java.util.List;
-
 class MyCalendar {
-    private List<int[]> calendar;
+    private List<int[]> bookings;
 
     public MyCalendar() {
-        calendar = new ArrayList<>();
+        bookings = new ArrayList<>();
     }
 
     public boolean book(int start, int end) {
-        for (int[] x : calendar) {
-            if ((start < x[0] && end > x[0]) || (start == x[0]) || (start > x[0] && start < x[1])) {
-                return false;
+        // Check for overlaps with existing bookings
+        for (int[] booking : bookings) {
+            // If the current booking overlaps with an existing booking, return false
+            if (start < booking[1] && end > booking[0]) {
+                return false; // Overlap detected
             }
         }
-        calendar.add(new int[]{start, end});
+
+        // If no overlaps, add the new booking
+        bookings.add(new int[]{start, end});
         return true;
     }
 }
