@@ -26,7 +26,6 @@ class Solution
         }
     
         if(found==1) c++;
-
         return c;
     }
 }
