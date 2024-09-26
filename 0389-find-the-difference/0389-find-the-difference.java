@@ -9,7 +9,7 @@ class Solution {
                 return t.charAt(i);
             }
         }
-
+        
         return ' ';
     }
 }
