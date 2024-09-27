@@ -9,7 +9,7 @@ class Solution {
             if(nums[l]%2==0)
                 l++;
             
-            else if(nums[r]%2!=0)
+            if(nums[r]%2!=0)
                 r--;
         
             else
