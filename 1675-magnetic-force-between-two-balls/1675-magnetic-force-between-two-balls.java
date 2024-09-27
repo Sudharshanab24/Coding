@@ -5,7 +5,7 @@ class Solution {
       
         // Set initial search boundary for the maximum distance
         int left = 1;                 // Minimum possible distance
-        int right = positions[positions.length - 1]; // Maximum possible distance
+        int right = positions[positions.length - 1]-positions[0]; // Maximum possible distance
       
         // Use binary search to find the largest minimum distance between m balls
         while (left < right) {
