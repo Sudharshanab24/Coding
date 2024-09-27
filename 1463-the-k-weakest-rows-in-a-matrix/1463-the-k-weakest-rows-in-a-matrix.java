@@ -3,10 +3,8 @@ class Solution {
         int m = mat.length;
         int n = mat[0].length;
 
-        // Create an array to store the sum of soldiers and the corresponding row index
         int[][] soldierCount = new int[m][2];
 
-        // Calculate the sum of soldiers for each row and store it along with the row index
         for (int i = 0; i < m; i++) {
             int sum = 0;
             for (int j = 0; j < n; j++) {
