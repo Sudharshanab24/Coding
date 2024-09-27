@@ -15,9 +15,9 @@ class Solution
             li.add(c);
             c=1;
             }
-        }
+        }         
+
         li.add(c);
-        System.out.println(li);
         int res=0;
 
         for(int i=1;i<li.size();i++)
