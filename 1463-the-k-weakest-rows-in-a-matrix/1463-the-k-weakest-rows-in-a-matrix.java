@@ -5,38 +5,34 @@ class Solution {
         int m = mat.length;
         int n = mat[0].length;
 
-        // Map to store row index and the corresponding number of soldiers (sum of 1s)
-        HashMap<Integer, Integer> hm = new HashMap<>();
+        // Create an array to store the sum of soldiers and the corresponding row index
+        int[][] soldierCount = new int[m][2];
 
-        // Calculate the sum of soldiers for each row and store it in the map
+        // Calculate the sum of soldiers for each row and store it along with the row index
         for (int i = 0; i < m; i++) {
             int sum = 0;
             for (int j = 0; j < n; j++) {
                 sum += mat[i][j];
             }
-            hm.put(i, sum);  // Row index as key, sum of soldiers as value
+            soldierCount[i][0] = sum;  // Store the sum of soldiers
+            soldierCount[i][1] = i;    // Store the row index
         }
 
-        // Create a list of map entries and sort by value (number of soldiers)
-        List<Map.Entry<Integer, Integer>> sortedEntries = new ArrayList<>(hm.entrySet());
-
-        // Sort the entries first by the number of soldiers (value), then by row index (key)
-        Collections.sort(sortedEntries, (entry1, entry2) -> {
-            if (entry1.getValue().equals(entry2.getValue())) {
-                return entry1.getKey() - entry2.getKey();  // Sort by row index if values are the same
+        // Sort based on the number of soldiers, and if equal, by the row index
+        Arrays.sort(soldierCount, (a, b) -> {
+            if (a[0] == b[0]) {
+                return a[1] - b[1];  // Sort by row index if soldier count is the same
             } else {
-                return entry1.getValue() - entry2.getValue();  // Sort by number of soldiers
+                return a[0] - b[0];  // Sort by number of soldiers
             }
         });
 
-        // Result array to store the indexes of the k weakest rows
-        int[] arr = new int[k];
-        
-        // Add the first k weakest rows to the result array
+        // Extract the indices of the k weakest rows
+        int[] result = new int[k];
         for (int i = 0; i < k; i++) {
-            arr[i] = sortedEntries.get(i).getKey();
+            result[i] = soldierCount[i][1];  // Get the row index from the sorted array
         }
 
-        return arr;
+        return result;
     }
 }
