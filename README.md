@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sudharshanab24/Coding/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sudharshanab24/Coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0729-my-calendar-i](https://github.com/Sudharshanab24/Coding/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Sudharshanab24/Coding/tree/master/0731-my-calendar-ii) |
 | [0941-sort-array-by-parity](https://github.com/Sudharshanab24/Coding/tree/master/0941-sort-array-by-parity) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sudharshanab24/Coding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sudharshanab24/Coding/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Sudharshanab24/Coding/tree/master/0303-range-sum-query-immutable) |
+| [0731-my-calendar-ii](https://github.com/Sudharshanab24/Coding/tree/master/0731-my-calendar-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sudharshanab24/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sudharshanab24/Coding/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/Sudharshanab24/Coding/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Sudharshanab24/Coding/tree/master/0731-my-calendar-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sudharshanab24/Coding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sudharshanab24/Coding/tree/master/1675-magnetic-force-between-two-balls) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sudharshanab24/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -268,14 +271,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Sudharshanab24/Coding/tree/master/0303-range-sum-query-immutable) |
 | [0729-my-calendar-i](https://github.com/Sudharshanab24/Coding/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Sudharshanab24/Coding/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Sudharshanab24/Coding/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Sudharshanab24/Coding/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Sudharshanab24/Coding/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Sudharshanab24/Coding/tree/master/0731-my-calendar-ii) |
 ## Interactive
 |  |
 | ------- |
