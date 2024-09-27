@@ -33,6 +33,7 @@ class Solution {
       
         // Iterate through the positions to place the rest of the balls
         for (int i = 1; i < positions.length; ++i) {
+            
             int currentPosition = positions[i];
           
             // If the current position is at least 'distance' away from the previously placed ball
