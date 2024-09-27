@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Sudharshanab24/Coding/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sudharshanab24/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/Sudharshanab24/Coding/tree/master/0374-guess-number-higher-or-lower) |
 | [0729-my-calendar-i](https://github.com/Sudharshanab24/Coding/tree/master/0729-my-calendar-i) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sudharshanab24/Coding/tree/master/1675-magnetic-force-between-two-balls) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sudharshanab24/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -264,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Sudharshanab24/Coding/tree/master/0729-my-calendar-i) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Sudharshanab24/Coding/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
