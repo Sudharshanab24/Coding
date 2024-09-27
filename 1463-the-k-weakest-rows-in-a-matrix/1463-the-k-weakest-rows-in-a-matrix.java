@@ -1,5 +1,3 @@
-import java.util.*;
-
 class Solution {
     public int[] kWeakestRows(int[][] mat, int k) {
         int m = mat.length;
@@ -18,14 +16,24 @@ class Solution {
             soldierCount[i][1] = i;    // Store the row index
         }
 
-        // Sort based on the number of soldiers, and if equal, by the row index
-        Arrays.sort(soldierCount, (a, b) -> {
-            if (a[0] == b[0]) {
-                return a[1] - b[1];  // Sort by row index if soldier count is the same
-            } else {
-                return a[0] - b[0];  // Sort by number of soldiers
+        // Implement Bubble Sort to sort rows by the number of soldiers, and if equal, by the row index
+        for (int i = 0; i < m - 1; i++) {
+            for (int j = 0; j < m - i - 1; j++) {
+                // If the number of soldiers is greater, swap
+                if (soldierCount[j][0] > soldierCount[j + 1][0] )
+                  {
+                      // Swap the number of soldiers
+                    int tempSoldier = soldierCount[j][0];
+                    soldierCount[j][0] = soldierCount[j + 1][0];
+                    soldierCount[j + 1][0] = tempSoldier;
+
+                    // Swap the row indices
+                    int tempIndex = soldierCount[j][1];
+                    soldierCount[j][1] = soldierCount[j + 1][1];
+                    soldierCount[j + 1][1] = tempIndex;
+                }
             }
-        });
+        }
 
         // Extract the indices of the k weakest rows
         int[] result = new int[k];
