@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Sudharshanab24/Coding/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sudharshanab24/Coding/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sudharshanab24/Coding/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sudharshanab24/Coding/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0074-search-a-2d-matrix) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sudharshanab24/Coding/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sudharshanab24/Coding/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sudharshanab24/Coding/tree/master/0412-fizz-buzz) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0074-search-a-2d-matrix) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sudharshanab24/Coding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
