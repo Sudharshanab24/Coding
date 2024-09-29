@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0398-random-pick-index](https://github.com/Sudharshanab24/Coding/tree/master/0398-random-pick-index) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sudharshanab24/Coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/Sudharshanab24/Coding/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Sudharshanab24/Coding/tree/master/0415-add-strings) |
 | [0464-can-i-win](https://github.com/Sudharshanab24/Coding/tree/master/0464-can-i-win) |
 ## Array
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Sudharshanab24/Coding/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Sudharshanab24/Coding/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Sudharshanab24/Coding/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Sudharshanab24/Coding/tree/master/0415-add-strings) |
 | [0696-count-binary-substrings](https://github.com/Sudharshanab24/Coding/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Sudharshanab24/Coding/tree/master/0874-backspace-string-compare) |
 | [1873-longest-nice-substring](https://github.com/Sudharshanab24/Coding/tree/master/1873-longest-nice-substring) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sudharshanab24/Coding/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sudharshanab24/Coding/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sudharshanab24/Coding/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Sudharshanab24/Coding/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Sudharshanab24/Coding/tree/master/0874-backspace-string-compare) |
 ## Hash Table
 |  |
