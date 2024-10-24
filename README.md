@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sudharshanab24/Coding/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sudharshanab24/Coding/tree/master/0415-add-strings) |
 | [0464-can-i-win](https://github.com/Sudharshanab24/Coding/tree/master/0464-can-i-win) |
+| [1013-fibonacci-number](https://github.com/Sudharshanab24/Coding/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/Sudharshanab24/Coding/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/Sudharshanab24/Coding/tree/master/0392-is-subsequence) |
 | [0464-can-i-win](https://github.com/Sudharshanab24/Coding/tree/master/0464-can-i-win) |
+| [1013-fibonacci-number](https://github.com/Sudharshanab24/Coding/tree/master/1013-fibonacci-number) |
 | [2755-extra-characters-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/2755-extra-characters-in-a-string) |
 ## Greedy
 |  |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sudharshanab24/Coding/tree/master/0070-climbing-stairs) |
 | [0464-can-i-win](https://github.com/Sudharshanab24/Coding/tree/master/0464-can-i-win) |
+| [1013-fibonacci-number](https://github.com/Sudharshanab24/Coding/tree/master/1013-fibonacci-number) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -249,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Sudharshanab24/Coding/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sudharshanab24/Coding/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Sudharshanab24/Coding/tree/master/0273-integer-to-english-words) |
+| [1013-fibonacci-number](https://github.com/Sudharshanab24/Coding/tree/master/1013-fibonacci-number) |
 ## Breadth-First Search
 |  |
 | ------- |
