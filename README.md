@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Sudharshanab24/Coding/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sudharshanab24/Coding/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sudharshanab24/Coding/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Sudharshanab24/Coding/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/Sudharshanab24/Coding/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Sudharshanab24/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sudharshanab24/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sudharshanab24/Coding/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sudharshanab24/Coding/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/Sudharshanab24/Coding/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Sudharshanab24/Coding/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sudharshanab24/Coding/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Sudharshanab24/Coding/tree/master/0874-backspace-string-compare) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0074-search-a-2d-matrix) |
+| [0289-game-of-life](https://github.com/Sudharshanab24/Coding/tree/master/0289-game-of-life) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sudharshanab24/Coding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
