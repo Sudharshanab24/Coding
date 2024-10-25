@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Sudharshanab24/Coding/tree/master/0464-can-i-win) |
 | [1013-fibonacci-number](https://github.com/Sudharshanab24/Coding/tree/master/1013-fibonacci-number) |
 | [2755-extra-characters-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/2755-extra-characters-in-a-string) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sudharshanab24/Coding/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Sudharshanab24/Coding/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Sudharshanab24/Coding/tree/master/0409-longest-palindrome) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sudharshanab24/Coding/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sudharshanab24/Coding/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
 | ------- |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-middle-of-the-linked-list](https://github.com/Sudharshanab24/Coding/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Sudharshanab24/Coding/tree/master/0941-sort-array-by-parity) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sudharshanab24/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sudharshanab24/Coding/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Stack
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sudharshanab24/Coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2755-extra-characters-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sudharshanab24/Coding/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sudharshanab24/Coding/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
