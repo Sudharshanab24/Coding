@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sudharshanab24/Coding/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sudharshanab24/Coding/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Sudharshanab24/Coding/tree/master/0115-distinct-subsequences) |
+| [0127-word-ladder](https://github.com/Sudharshanab24/Coding/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Sudharshanab24/Coding/tree/master/0179-largest-number) |
 | [0273-integer-to-english-words](https://github.com/Sudharshanab24/Coding/tree/master/0273-integer-to-english-words) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sudharshanab24/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Sudharshanab24/Coding/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Sudharshanab24/Coding/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/Sudharshanab24/Coding/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/Sudharshanab24/Coding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sudharshanab24/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Sudharshanab24/Coding/tree/master/0264-ugly-number-ii) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Sudharshanab24/Coding/tree/master/0127-word-ladder) |
 | [0279-perfect-squares](https://github.com/Sudharshanab24/Coding/tree/master/0279-perfect-squares) |
 ## Game Theory
 |  |
