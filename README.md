@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sudharshanab24/Coding/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Sudharshanab24/Coding/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Sudharshanab24/Coding/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Sudharshanab24/Coding/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sudharshanab24/Coding/tree/master/0055-jump-game) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sudharshanab24/Coding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sudharshanab24/Coding/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Sudharshanab24/Coding/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Sudharshanab24/Coding/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/Sudharshanab24/Coding/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Sudharshanab24/Coding/tree/master/0217-contains-duplicate) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sudharshanab24/Coding/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Sudharshanab24/Coding/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Sudharshanab24/Coding/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/Sudharshanab24/Coding/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sudharshanab24/Coding/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Sudharshanab24/Coding/tree/master/0179-largest-number) |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sudharshanab24/Coding/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Sudharshanab24/Coding/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Sudharshanab24/Coding/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Sudharshanab24/Coding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sudharshanab24/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/Sudharshanab24/Coding/tree/master/0264-ugly-number-ii) |
