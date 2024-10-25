@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sudharshanab24/Coding/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sudharshanab24/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Sudharshanab24/Coding/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Sudharshanab24/Coding/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sudharshanab24/Coding/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -316,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sudharshanab24/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sudharshanab24/Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sudharshanab24/Coding/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0074-search-a-2d-matrix) |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sudharshanab24/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sudharshanab24/Coding/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/Sudharshanab24/Coding/tree/master/0347-top-k-frequent-elements) |
 | [1873-longest-nice-substring](https://github.com/Sudharshanab24/Coding/tree/master/1873-longest-nice-substring) |
