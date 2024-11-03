@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sudharshanab24/Coding/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Sudharshanab24/Coding/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/Sudharshanab24/Coding/tree/master/0696-count-binary-substrings) |
+| [0812-rotate-string](https://github.com/Sudharshanab24/Coding/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Sudharshanab24/Coding/tree/master/0874-backspace-string-compare) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sudharshanab24/Coding/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sudharshanab24/Coding/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -397,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sudharshanab24/Coding/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Sudharshanab24/Coding/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
