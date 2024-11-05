@@ -22,12 +22,12 @@ class Solution
         {
             if(grid[0][i]==1)
             {
-                q.offer(new Pair(0,i));
+                q.add(new Pair(0,i));
                 vis[0][i]=1;
             }
             if(grid[m-1][i]==1)
             {
-                q.offer(new Pair(m-1,i));
+                q.add(new Pair(m-1,i));
                 vis[m-1][i]=1;
             }
         }
@@ -37,12 +37,12 @@ class Solution
         {
             if(grid[i][0]==1 && vis[i][0]==0)
             {
-                q.offer(new Pair(i,0));
+                q.add(new Pair(i,0));
                 vis[i][0]=1;
             }
             if(grid[i][n-1]==1 && vis[i][n-1]==0)
             {
-                q.offer(new Pair(i,n-1));
+                q.add(new Pair(i,n-1));
                 vis[i][n-1]=1;
             }
         }
@@ -64,7 +64,7 @@ class Solution
 
                 if(nr>=0 && nr<m && nc>=0 && nc<n && grid[nr][nc]==1 && vis[nr][nc]==0)
                 {
-                    q.offer(new Pair(nr,nc));
+                    q.add(new Pair(nr,nc));
                     vis[nr][nc]=1;
                 }
             }
