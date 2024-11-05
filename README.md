@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Sudharshanab24/Coding/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Sudharshanab24/Coding/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/Sudharshanab24/Coding/tree/master/0941-sort-array-by-parity) |
+| [1039-find-the-town-judge](https://github.com/Sudharshanab24/Coding/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sudharshanab24/Coding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sudharshanab24/Coding/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sudharshanab24/Coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sudharshanab24/Coding/tree/master/0496-next-greater-element-i) |
+| [1039-find-the-town-judge](https://github.com/Sudharshanab24/Coding/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sudharshanab24/Coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sudharshanab24/Coding/tree/master/1694-make-sum-divisible-by-p) |
@@ -403,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Sudharshanab24/Coding/tree/master/0812-rotate-string) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/Sudharshanab24/Coding/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
