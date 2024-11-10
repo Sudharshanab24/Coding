@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sudharshanab24/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sudharshanab24/Coding/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sudharshanab24/Coding/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sudharshanab24/Coding/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Sudharshanab24/Coding/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sudharshanab24/Coding/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sudharshanab24/Coding/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sudharshanab24/Coding/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Sudharshanab24/Coding/tree/master/3394-minimum-array-end) |
 ## Memoization
 |  |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/Sudharshanab24/Coding/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/Sudharshanab24/Coding/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sudharshanab24/Coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sudharshanab24/Coding/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Binary Search
 |  |
 | ------- |
