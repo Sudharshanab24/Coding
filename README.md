@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sudharshanab24/Coding/tree/master/0415-add-strings) |
 | [0464-can-i-win](https://github.com/Sudharshanab24/Coding/tree/master/0464-can-i-win) |
 | [1013-fibonacci-number](https://github.com/Sudharshanab24/Coding/tree/master/1013-fibonacci-number) |
+| [2716-prime-subtraction-operation](https://github.com/Sudharshanab24/Coding/tree/master/2716-prime-subtraction-operation) |
 ## Array
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Sudharshanab24/Coding/tree/master/1940-maximum-xor-for-each-query) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sudharshanab24/Coding/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sudharshanab24/Coding/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2716-prime-subtraction-operation](https://github.com/Sudharshanab24/Coding/tree/master/2716-prime-subtraction-operation) |
 | [2755-extra-characters-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/2755-extra-characters-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sudharshanab24/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sudharshanab24/Coding/tree/master/3291-find-if-array-can-be-sorted) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Sudharshanab24/Coding/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/Sudharshanab24/Coding/tree/master/0409-longest-palindrome) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sudharshanab24/Coding/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2716-prime-subtraction-operation](https://github.com/Sudharshanab24/Coding/tree/master/2716-prime-subtraction-operation) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sudharshanab24/Coding/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Sorting
 |  |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Sudharshanab24/Coding/tree/master/0258-add-digits) |
+| [2716-prime-subtraction-operation](https://github.com/Sudharshanab24/Coding/tree/master/2716-prime-subtraction-operation) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Sudharshanab24/Coding/tree/master/0731-my-calendar-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sudharshanab24/Coding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sudharshanab24/Coding/tree/master/1675-magnetic-force-between-two-balls) |
+| [2716-prime-subtraction-operation](https://github.com/Sudharshanab24/Coding/tree/master/2716-prime-subtraction-operation) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sudharshanab24/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
