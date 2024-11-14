@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Sudharshanab24/Coding/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Sudharshanab24/Coding/tree/master/0212-word-search-ii) |
 | [0217-contains-duplicate](https://github.com/Sudharshanab24/Coding/tree/master/0217-contains-duplicate) |
+| [0218-the-skyline-problem](https://github.com/Sudharshanab24/Coding/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Sudharshanab24/Coding/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Sudharshanab24/Coding/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Sudharshanab24/Coding/tree/master/0268-missing-number) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Sudharshanab24/Coding/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/Sudharshanab24/Coding/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sudharshanab24/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0506-relative-ranks](https://github.com/Sudharshanab24/Coding/tree/master/0506-relative-ranks) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sudharshanab24/Coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sudharshanab24/Coding/tree/master/0053-maximum-subarray) |
+| [0218-the-skyline-problem](https://github.com/Sudharshanab24/Coding/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/Sudharshanab24/Coding/tree/master/0347-top-k-frequent-elements) |
 | [1873-longest-nice-substring](https://github.com/Sudharshanab24/Coding/tree/master/1873-longest-nice-substring) |
 ## Counting
@@ -424,11 +427,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Sudharshanab24/Coding/tree/master/0218-the-skyline-problem) |
 | [0729-my-calendar-i](https://github.com/Sudharshanab24/Coding/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sudharshanab24/Coding/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Sudharshanab24/Coding/tree/master/0218-the-skyline-problem) |
 | [0729-my-calendar-i](https://github.com/Sudharshanab24/Coding/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sudharshanab24/Coding/tree/master/0731-my-calendar-ii) |
 ## Interactive
@@ -481,4 +486,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sudharshanab24/Coding/tree/master/0207-course-schedule) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Sudharshanab24/Coding/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Sudharshanab24/Coding/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
