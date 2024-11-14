@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sudharshanab24/Coding/tree/master/0207-course-schedule) |
 | [0386-lexicographical-numbers](https://github.com/Sudharshanab24/Coding/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Sudharshanab24/Coding/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Sudharshanab24/Coding/tree/master/0744-network-delay-time) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Sudharshanab24/Coding/tree/master/0127-word-ladder) |
+| [0207-course-schedule](https://github.com/Sudharshanab24/Coding/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/Sudharshanab24/Coding/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/Sudharshanab24/Coding/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Sudharshanab24/Coding/tree/master/0744-network-delay-time) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Sudharshanab24/Coding/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Sudharshanab24/Coding/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Sudharshanab24/Coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sudharshanab24/Coding/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -469,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/Sudharshanab24/Coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sudharshanab24/Coding/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sudharshanab24/Coding/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Sudharshanab24/Coding/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
