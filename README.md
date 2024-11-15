@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sudharshanab24/Coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sudharshanab24/Coding/tree/master/1675-magnetic-force-between-two-balls) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sudharshanab24/Coding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sudharshanab24/Coding/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/Sudharshanab24/Coding/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sudharshanab24/Coding/tree/master/1940-maximum-xor-for-each-query) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/Sudharshanab24/Coding/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Sudharshanab24/Coding/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Sudharshanab24/Coding/tree/master/0941-sort-array-by-parity) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sudharshanab24/Coding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sudharshanab24/Coding/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sudharshanab24/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sudharshanab24/Coding/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -197,12 +199,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sudharshanab24/Coding/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sudharshanab24/Coding/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Sudharshanab24/Coding/tree/master/0874-backspace-string-compare) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sudharshanab24/Coding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Sudharshanab24/Coding/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sudharshanab24/Coding/tree/master/0739-daily-temperatures) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sudharshanab24/Coding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## String
 |  |
 | ------- |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Sudharshanab24/Coding/tree/master/0731-my-calendar-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sudharshanab24/Coding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sudharshanab24/Coding/tree/master/1675-magnetic-force-between-two-balls) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sudharshanab24/Coding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sudharshanab24/Coding/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Sudharshanab24/Coding/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sudharshanab24/Coding/tree/master/2699-count-the-number-of-fair-pairs) |
