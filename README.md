@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Sudharshanab24/Coding/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Sudharshanab24/Coding/tree/master/0044-wildcard-matching) |
 | [0053-maximum-subarray](https://github.com/Sudharshanab24/Coding/tree/master/0053-maximum-subarray) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sudharshanab24/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Sudharshanab24/Coding/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Sudharshanab24/Coding/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Sudharshanab24/Coding/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Sudharshanab24/Coding/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Sudharshanab24/Coding/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Sudharshanab24/Coding/tree/master/0044-wildcard-matching) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sudharshanab24/Coding/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Sudharshanab24/Coding/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Sudharshanab24/Coding/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/Sudharshanab24/Coding/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/Sudharshanab24/Coding/tree/master/0206-reverse-linked-list) |
