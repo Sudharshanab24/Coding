@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Sudharshanab24/Coding/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sudharshanab24/Coding/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sudharshanab24/Coding/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Sudharshanab24/Coding/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Sudharshanab24/Coding/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sudharshanab24/Coding/tree/master/0046-permutations) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sudharshanab24/Coding/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sudharshanab24/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Sudharshanab24/Coding/tree/master/0012-integer-to-roman) |
+| [0037-sudoku-solver](https://github.com/Sudharshanab24/Coding/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Sudharshanab24/Coding/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sudharshanab24/Coding/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/Sudharshanab24/Coding/tree/master/0127-word-ladder) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sudharshanab24/Coding/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0212-word-search-ii](https://github.com/Sudharshanab24/Coding/tree/master/0212-word-search-ii) |
@@ -481,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sudharshanab24/Coding/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Sudharshanab24/Coding/tree/master/0046-permutations) |
 | [0212-word-search-ii](https://github.com/Sudharshanab24/Coding/tree/master/0212-word-search-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sudharshanab24/Coding/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
