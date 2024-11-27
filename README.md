@@ -512,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Sudharshanab24/Coding/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Sudharshanab24/Coding/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Sudharshanab24/Coding/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Sudharshanab24/Coding/tree/master/0052-n-queens-ii) |
 | [0212-word-search-ii](https://github.com/Sudharshanab24/Coding/tree/master/0212-word-search-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sudharshanab24/Coding/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## String Matching
