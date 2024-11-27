@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sudharshanab24/Coding/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Sudharshanab24/Coding/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/Sudharshanab24/Coding/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sudharshanab24/Coding/tree/master/0075-sort-colors) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sudharshanab24/Coding/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Sudharshanab24/Coding/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Sudharshanab24/Coding/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Sudharshanab24/Coding/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Sudharshanab24/Coding/tree/master/0068-text-justification) |
 | [0115-distinct-subsequences](https://github.com/Sudharshanab24/Coding/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Sudharshanab24/Coding/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/0151-reverse-words-in-a-string) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/Sudharshanab24/Coding/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/Sudharshanab24/Coding/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/Sudharshanab24/Coding/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/Sudharshanab24/Coding/tree/master/0289-game-of-life) |
 | [0412-fizz-buzz](https://github.com/Sudharshanab24/Coding/tree/master/0412-fizz-buzz) |
