@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Sudharshanab24/Coding/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Sudharshanab24/Coding/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Sudharshanab24/Coding/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/Sudharshanab24/Coding/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Sudharshanab24/Coding/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Sudharshanab24/Coding/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/0151-reverse-words-in-a-string) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Sudharshanab24/Coding/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Sudharshanab24/Coding/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sudharshanab24/Coding/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Sudharshanab24/Coding/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Sudharshanab24/Coding/tree/master/0127-word-ladder) |
 | [0217-contains-duplicate](https://github.com/Sudharshanab24/Coding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Sudharshanab24/Coding/tree/master/0219-contains-duplicate-ii) |
@@ -401,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sudharshanab24/Coding/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Sudharshanab24/Coding/tree/master/0076-minimum-window-substring) |
 | [0219-contains-duplicate-ii](https://github.com/Sudharshanab24/Coding/tree/master/0219-contains-duplicate-ii) |
 | [1755-defuse-the-bomb](https://github.com/Sudharshanab24/Coding/tree/master/1755-defuse-the-bomb) |
 | [1873-longest-nice-substring](https://github.com/Sudharshanab24/Coding/tree/master/1873-longest-nice-substring) |
