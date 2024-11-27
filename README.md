@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Sudharshanab24/Coding/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Sudharshanab24/Coding/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Sudharshanab24/Coding/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sudharshanab24/Coding/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0135-candy](https://github.com/Sudharshanab24/Coding/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Sudharshanab24/Coding/tree/master/0136-single-number) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Sudharshanab24/Coding/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sudharshanab24/Coding/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sudharshanab24/Coding/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Sudharshanab24/Coding/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Sudharshanab24/Coding/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sudharshanab24/Coding/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0233-number-of-digit-one](https://github.com/Sudharshanab24/Coding/tree/master/0233-number-of-digit-one) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sudharshanab24/Coding/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sudharshanab24/Coding/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Sudharshanab24/Coding/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Sudharshanab24/Coding/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sudharshanab24/Coding/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sudharshanab24/Coding/tree/master/0739-daily-temperatures) |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Sudharshanab24/Coding/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Sudharshanab24/Coding/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Sudharshanab24/Coding/tree/master/0739-daily-temperatures) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sudharshanab24/Coding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -436,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Sudharshanab24/Coding/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/Sudharshanab24/Coding/tree/master/0085-maximal-rectangle) |
 | [0212-word-search-ii](https://github.com/Sudharshanab24/Coding/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/Sudharshanab24/Coding/tree/master/0289-game-of-life) |
 | [1073-number-of-enclaves](https://github.com/Sudharshanab24/Coding/tree/master/1073-number-of-enclaves) |
