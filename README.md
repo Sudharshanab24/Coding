@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Sudharshanab24/Coding/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Sudharshanab24/Coding/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Sudharshanab24/Coding/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/Sudharshanab24/Coding/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Sudharshanab24/Coding/tree/master/0115-distinct-subsequences) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Sudharshanab24/Coding/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0233-number-of-digit-one](https://github.com/Sudharshanab24/Coding/tree/master/0233-number-of-digit-one) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sudharshanab24/Coding/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Sudharshanab24/Coding/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Sudharshanab24/Coding/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/Sudharshanab24/Coding/tree/master/0087-scramble-string) |
 | [0115-distinct-subsequences](https://github.com/Sudharshanab24/Coding/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/Sudharshanab24/Coding/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/0151-reverse-words-in-a-string) |
