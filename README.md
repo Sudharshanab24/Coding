@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Sudharshanab24/Coding/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Sudharshanab24/Coding/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sudharshanab24/Coding/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/Sudharshanab24/Coding/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/Sudharshanab24/Coding/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/Sudharshanab24/Coding/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/Sudharshanab24/Coding/tree/master/0065-valid-number) |
