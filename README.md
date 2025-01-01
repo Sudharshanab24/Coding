@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Sudharshanab24/Coding/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Sudharshanab24/Coding/tree/master/0303-range-sum-query-immutable) |
 | [0731-my-calendar-ii](https://github.com/Sudharshanab24/Coding/tree/master/0731-my-calendar-ii) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Sudharshanab24/Coding/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sudharshanab24/Coding/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sudharshanab24/Coding/tree/master/1940-maximum-xor-for-each-query) |
 ## Dynamic Programming
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Sudharshanab24/Coding/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Sudharshanab24/Coding/tree/master/0874-backspace-string-compare) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sudharshanab24/Coding/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1537-maximum-score-after-splitting-a-string](https://github.com/Sudharshanab24/Coding/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sudharshanab24/Coding/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1873-longest-nice-substring](https://github.com/Sudharshanab24/Coding/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sudharshanab24/Coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
