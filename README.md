@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sudharshanab24/Coding/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1694-make-sum-divisible-by-p](https://github.com/Sudharshanab24/Coding/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sudharshanab24/Coding/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Sudharshanab24/Coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sudharshanab24/Coding/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sudharshanab24/Coding/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sudharshanab24/Coding/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1873-longest-nice-substring](https://github.com/Sudharshanab24/Coding/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sudharshanab24/Coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Sudharshanab24/Coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2580-circular-sentence](https://github.com/Sudharshanab24/Coding/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sudharshanab24/Coding/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/2755-extra-characters-in-a-string) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sudharshanab24/Coding/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1873-longest-nice-substring](https://github.com/Sudharshanab24/Coding/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sudharshanab24/Coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Sudharshanab24/Coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sudharshanab24/Coding/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2755-extra-characters-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sudharshanab24/Coding/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Sudharshanab24/Coding/tree/master/0464-can-i-win) |
 | [1873-longest-nice-substring](https://github.com/Sudharshanab24/Coding/tree/master/1873-longest-nice-substring) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sudharshanab24/Coding/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Sudharshanab24/Coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sudharshanab24/Coding/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sudharshanab24/Coding/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sudharshanab24/Coding/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
