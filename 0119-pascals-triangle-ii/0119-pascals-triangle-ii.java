@@ -1,19 +1,15 @@
 class Solution {
-    public List<Integer> getRow(int n) 
-    {
-        List<List<Integer>> ans=new ArrayList<>();
-        List<Integer>ele=new ArrayList<>();
+    public List<Integer> getRow(int n) {
+        long res = 1; // Use long to store intermediate results
+        ArrayList<Integer> arr = new ArrayList<>();
 
-        for(int i=0;i<=n;i++)
-        {
-          ele=new ArrayList<>();
-            for(int j=0;j<=i;j++)
-            {
-                if(j==0 || i==j) ele.add(1);
-                else ele.add(ans.get(i-1).get(j)+ans.get(i-1).get(j-1));
-            }
-            ans.add(ele);
+        arr.add(1); // The first element is always 1
+
+        for (int i = 0; i < n; i++) {
+            res = res * (n - i) / (i + 1); // Calculate the next binomial coefficient
+            arr.add((int) res); // Cast back to int for storing in the ArrayList
         }
-      return ele;
+        
+        return arr;
     }
 }
