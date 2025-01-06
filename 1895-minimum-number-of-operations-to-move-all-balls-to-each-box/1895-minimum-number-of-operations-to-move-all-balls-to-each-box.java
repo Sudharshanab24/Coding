@@ -2,15 +2,12 @@ class Solution {
     public int[] minOperations(String boxes)
     {
         int [] arr=new int[boxes.length()];
-        int [] box=new int[boxes.length()];
-
         ArrayList<Integer> list=new ArrayList<>();
         
         for(int i=0;i<boxes.length();i++)
         {
-            box[i]=boxes.charAt(i)-'0';
-
-            if(box[i]==1)
+            int b=boxes.charAt(i)-'0';
+            if(b==1)
             list.add(i);
         }
 
