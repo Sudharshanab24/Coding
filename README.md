@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Sudharshanab24/Coding/tree/master/1073-number-of-enclaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1256-rank-transform-of-an-array) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sudharshanab24/Coding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1524-string-matching-in-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sudharshanab24/Coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1675-magnetic-force-between-two-balls](https://github.com/Sudharshanab24/Coding/tree/master/1675-magnetic-force-between-two-balls) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Sudharshanab24/Coding/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Sudharshanab24/Coding/tree/master/0874-backspace-string-compare) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sudharshanab24/Coding/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1524-string-matching-in-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sudharshanab24/Coding/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sudharshanab24/Coding/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1873-longest-nice-substring](https://github.com/Sudharshanab24/Coding/tree/master/1873-longest-nice-substring) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sudharshanab24/Coding/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Sudharshanab24/Coding/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1524-string-matching-in-an-array) |
 ## Graph
 |  |
 | ------- |
