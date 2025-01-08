@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/2755-extra-characters-in-a-string) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sudharshanab24/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sudharshanab24/Coding/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sudharshanab24/Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sudharshanab24/Coding/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sudharshanab24/Coding/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Prefix Sum
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sudharshanab24/Coding/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2755-extra-characters-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/2755-extra-characters-in-a-string) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Sudharshanab24/Coding/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sudharshanab24/Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sudharshanab24/Coding/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3451-string-compression-iii](https://github.com/Sudharshanab24/Coding/tree/master/3451-string-compression-iii) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sudharshanab24/Coding/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Sudharshanab24/Coding/tree/master/0212-word-search-ii) |
 | [0386-lexicographical-numbers](https://github.com/Sudharshanab24/Coding/tree/master/0386-lexicographical-numbers) |
 | [2755-extra-characters-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/2755-extra-characters-in-a-string) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sudharshanab24/Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sudharshanab24/Coding/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Number Theory
 |  |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/Sudharshanab24/Coding/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Sudharshanab24/Coding/tree/master/0812-rotate-string) |
 | [1524-string-matching-in-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sudharshanab24/Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Graph
 |  |
 | ------- |
@@ -587,10 +591,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sudharshanab24/Coding/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sudharshanab24/Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Sudharshanab24/Coding/tree/master/0214-shortest-palindrome) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Sudharshanab24/Coding/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Merge Sort
 |  |
 | ------- |
