@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/Sudharshanab24/Coding/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Sudharshanab24/Coding/tree/master/0739-daily-temperatures) |
 | [0941-sort-array-by-parity](https://github.com/Sudharshanab24/Coding/tree/master/0941-sort-array-by-parity) |
+| [0952-word-subsets](https://github.com/Sudharshanab24/Coding/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/Sudharshanab24/Coding/tree/master/1039-find-the-town-judge) |
 | [1073-number-of-enclaves](https://github.com/Sudharshanab24/Coding/tree/master/1073-number-of-enclaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1256-rank-transform-of-an-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Sudharshanab24/Coding/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/Sudharshanab24/Coding/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Sudharshanab24/Coding/tree/master/0874-backspace-string-compare) |
+| [0952-word-subsets](https://github.com/Sudharshanab24/Coding/tree/master/0952-word-subsets) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Sudharshanab24/Coding/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1524-string-matching-in-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Sudharshanab24/Coding/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sudharshanab24/Coding/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sudharshanab24/Coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sudharshanab24/Coding/tree/master/0496-next-greater-element-i) |
+| [0952-word-subsets](https://github.com/Sudharshanab24/Coding/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/Sudharshanab24/Coding/tree/master/1039-find-the-town-judge) |
 | [1256-rank-transform-of-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sudharshanab24/Coding/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
