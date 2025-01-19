@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/Sudharshanab24/Coding/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Sudharshanab24/Coding/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sudharshanab24/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/Sudharshanab24/Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0414-third-maximum-number](https://github.com/Sudharshanab24/Coding/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sudharshanab24/Coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sudharshanab24/Coding/tree/master/0496-next-greater-element-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Sudharshanab24/Coding/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/Sudharshanab24/Coding/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sudharshanab24/Coding/tree/master/0347-top-k-frequent-elements) |
+| [0407-trapping-rain-water-ii](https://github.com/Sudharshanab24/Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0506-relative-ranks](https://github.com/Sudharshanab24/Coding/tree/master/0506-relative-ranks) |
 | [0744-network-delay-time](https://github.com/Sudharshanab24/Coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sudharshanab24/Coding/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -442,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Sudharshanab24/Coding/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Sudharshanab24/Coding/tree/master/0207-course-schedule) |
 | [0279-perfect-squares](https://github.com/Sudharshanab24/Coding/tree/master/0279-perfect-squares) |
+| [0407-trapping-rain-water-ii](https://github.com/Sudharshanab24/Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/Sudharshanab24/Coding/tree/master/0547-number-of-provinces) |
 | [0744-network-delay-time](https://github.com/Sudharshanab24/Coding/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sudharshanab24/Coding/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -508,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Sudharshanab24/Coding/tree/master/0174-dungeon-game) |
 | [0212-word-search-ii](https://github.com/Sudharshanab24/Coding/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/Sudharshanab24/Coding/tree/master/0289-game-of-life) |
+| [0407-trapping-rain-water-ii](https://github.com/Sudharshanab24/Coding/tree/master/0407-trapping-rain-water-ii) |
 | [1073-number-of-enclaves](https://github.com/Sudharshanab24/Coding/tree/master/1073-number-of-enclaves) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Sudharshanab24/Coding/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
