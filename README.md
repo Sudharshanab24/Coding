@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Sudharshanab24/Coding/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sudharshanab24/Coding/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sudharshanab24/Coding/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Sudharshanab24/Coding/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Sudharshanab24/Coding/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Sudharshanab24/Coding/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sudharshanab24/Coding/tree/master/0067-add-binary) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Sudharshanab24/Coding/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sudharshanab24/Coding/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sudharshanab24/Coding/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Sudharshanab24/Coding/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Sudharshanab24/Coding/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Sudharshanab24/Coding/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sudharshanab24/Coding/tree/master/0053-maximum-subarray) |
@@ -510,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sudharshanab24/Coding/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Sudharshanab24/Coding/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Sudharshanab24/Coding/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Sudharshanab24/Coding/tree/master/0085-maximal-rectangle) |
