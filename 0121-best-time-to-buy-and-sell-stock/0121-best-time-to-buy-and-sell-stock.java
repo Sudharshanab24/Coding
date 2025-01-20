@@ -1,18 +1,18 @@
 class Solution {
     public int maxProfit(int[] p) 
     {
-        int max=p[0];
+        int min=p[0];
 
-        int m=0;
+        int pro=0;
 
         for(int i=1;i<p.length;i++)
         {
-            if(max>p[i])
-            max=p[i];
+            if(min>p[i])
+            min=p[i];
 
-            m=Math.max(m,p[i]-max);
+            pro=Math.max(pro,p[i]-min);
         }
 
-        return m;
+        return pro;
     }
 }
