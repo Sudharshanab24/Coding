@@ -18,9 +18,12 @@ class Solution {
       }
 
     for (int i = 0; i < arr.length; ++i) {
-      if (++rows[numToRow[arr[i]]] == n)
+
+        rows[numToRow[arr[i]]]++;
+        cols[numToCol[arr[i]]]++;
+      if (rows[numToRow[arr[i]]] == n)
         return i;
-      if (++cols[numToCol[arr[i]]] == m)
+      if (cols[numToCol[arr[i]]] == m)
         return i;
     }
 
