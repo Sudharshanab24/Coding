@@ -43,9 +43,6 @@ class Solution {
             temp2 = temp2.next;
         }
 
-        // Step 4: (Optional) Restore the original list structure
-        reverse(secondHalf); // Undo the reversal
-
         return true; // All nodes matched, it's a palindrome
     }
 }
