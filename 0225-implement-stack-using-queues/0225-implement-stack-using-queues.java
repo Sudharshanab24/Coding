@@ -8,33 +8,41 @@ class MyStack {
     
     public void push(int x) {
         q1.add(x);
+
+        int n=q1.size();
+
+        for(int i=1;i<n;i++)
+        q1.add(q1.poll());
+
     }
     
     public int pop() {
-        while(q1.size()>1)
-        q2.add(q1.poll());
+        // while(q1.size()>1)
+        // q2.add(q1.poll());
 
-        int popele=q1.poll();
+        // int popele=q1.poll();
 
-        Queue<Integer> temp=q1;
-        q1=q2;
-        q2=temp;
+        // Queue<Integer> temp=q1;
+        // q1=q2;
+        // q2=temp;
 
-        return popele;
+        // return popele;
+        return q1.poll();
     }
     
     public int top() {
-        while(q1.size()>1)
-        q2.add(q1.poll());
+        // while(q1.size()>1)
+        // q2.add(q1.poll());
 
-        int popele=q1.poll();
-        q2.add(popele);
+        // int popele=q1.poll();
+        // q2.add(popele);
 
-        Queue<Integer> temp=q1;
-        q1=q2;
-        q2=temp;
+        // Queue<Integer> temp=q1;
+        // q1=q2;
+        // q2=temp;
         
-        return popele;
+        // return popele;
+        return q1.peek();
     }
     
     public boolean empty() {
