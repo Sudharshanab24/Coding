@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Sudharshanab24/Coding/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sudharshanab24/Coding/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sudharshanab24/Coding/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Sudharshanab24/Coding/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/Sudharshanab24/Coding/tree/master/0506-relative-ranks) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Sudharshanab24/Coding/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0729-my-calendar-i](https://github.com/Sudharshanab24/Coding/tree/master/0729-my-calendar-i) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Sudharshanab24/Coding/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sudharshanab24/Coding/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sudharshanab24/Coding/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Sudharshanab24/Coding/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sudharshanab24/Coding/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/Sudharshanab24/Coding/tree/master/0874-backspace-string-compare) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sudharshanab24/Coding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sudharshanab24/Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sudharshanab24/Coding/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Sudharshanab24/Coding/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Sudharshanab24/Coding/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sudharshanab24/Coding/tree/master/0739-daily-temperatures) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sudharshanab24/Coding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## String
