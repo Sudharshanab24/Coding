@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sudharshanab24/Coding/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sudharshanab24/Coding/tree/master/0415-add-strings) |
 | [0464-can-i-win](https://github.com/Sudharshanab24/Coding/tree/master/0464-can-i-win) |
+| [0556-next-greater-element-iii](https://github.com/Sudharshanab24/Coding/tree/master/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/Sudharshanab24/Coding/tree/master/1013-fibonacci-number) |
 | [2716-prime-subtraction-operation](https://github.com/Sudharshanab24/Coding/tree/master/2716-prime-subtraction-operation) |
 ## Array
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sudharshanab24/Coding/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Sudharshanab24/Coding/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Sudharshanab24/Coding/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/Sudharshanab24/Coding/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/Sudharshanab24/Coding/tree/master/0696-count-binary-substrings) |
 | [0874-backspace-string-compare](https://github.com/Sudharshanab24/Coding/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Sudharshanab24/Coding/tree/master/0908-middle-of-the-linked-list) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Sudharshanab24/Coding/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sudharshanab24/Coding/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Sudharshanab24/Coding/tree/master/0443-string-compression) |
+| [0556-next-greater-element-iii](https://github.com/Sudharshanab24/Coding/tree/master/0556-next-greater-element-iii) |
 | [0696-count-binary-substrings](https://github.com/Sudharshanab24/Coding/tree/master/0696-count-binary-substrings) |
 | [0812-rotate-string](https://github.com/Sudharshanab24/Coding/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/Sudharshanab24/Coding/tree/master/0874-backspace-string-compare) |
