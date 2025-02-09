@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0464-can-i-win](https://github.com/Sudharshanab24/Coding/tree/master/0464-can-i-win) |
 | [0556-next-greater-element-iii](https://github.com/Sudharshanab24/Coding/tree/master/0556-next-greater-element-iii) |
 | [1013-fibonacci-number](https://github.com/Sudharshanab24/Coding/tree/master/1013-fibonacci-number) |
+| [2448-count-number-of-bad-pairs](https://github.com/Sudharshanab24/Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Sudharshanab24/Coding/tree/master/2716-prime-subtraction-operation) |
 ## Array
 |  |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Sudharshanab24/Coding/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sudharshanab24/Coding/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/Sudharshanab24/Coding/tree/master/2358-number-of-ways-to-split-array) |
+| [2448-count-number-of-bad-pairs](https://github.com/Sudharshanab24/Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2465-shifting-letters-ii](https://github.com/Sudharshanab24/Coding/tree/master/2465-shifting-letters-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sudharshanab24/Coding/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sudharshanab24/Coding/tree/master/2685-first-completely-painted-row-or-column) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Sudharshanab24/Coding/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sudharshanab24/Coding/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/Sudharshanab24/Coding/tree/master/2434-design-a-number-container-system) |
+| [2448-count-number-of-bad-pairs](https://github.com/Sudharshanab24/Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sudharshanab24/Coding/tree/master/2685-first-completely-painted-row-or-column) |
 | [2755-extra-characters-in-a-string](https://github.com/Sudharshanab24/Coding/tree/master/2755-extra-characters-in-a-string) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Sudharshanab24/Coding/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Sudharshanab24/Coding/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Sudharshanab24/Coding/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sudharshanab24/Coding/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/Sudharshanab24/Coding/tree/master/2448-count-number-of-bad-pairs) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Sudharshanab24/Coding/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Design
 |  |
