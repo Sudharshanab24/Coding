@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Sudharshanab24/Coding/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sudharshanab24/Coding/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sudharshanab24/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Sudharshanab24/Coding/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Sudharshanab24/Coding/tree/master/0233-number-of-digit-one) |
 | [0258-add-digits](https://github.com/Sudharshanab24/Coding/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/Sudharshanab24/Coding/tree/master/0264-ugly-number-ii) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Sudharshanab24/Coding/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Sudharshanab24/Coding/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sudharshanab24/Coding/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/Sudharshanab24/Coding/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Sudharshanab24/Coding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sudharshanab24/Coding/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sudharshanab24/Coding/tree/master/0234-palindrome-linked-list) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Sudharshanab24/Coding/tree/master/0179-largest-number) |
 | [0212-word-search-ii](https://github.com/Sudharshanab24/Coding/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Sudharshanab24/Coding/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/Sudharshanab24/Coding/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Sudharshanab24/Coding/tree/master/0273-integer-to-english-words) |
 | [0299-bulls-and-cows](https://github.com/Sudharshanab24/Coding/tree/master/0299-bulls-and-cows) |
 | [0344-reverse-string](https://github.com/Sudharshanab24/Coding/tree/master/0344-reverse-string) |
@@ -505,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/Sudharshanab24/Coding/tree/master/0044-wildcard-matching) |
 | [0060-permutation-sequence](https://github.com/Sudharshanab24/Coding/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Sudharshanab24/Coding/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Sudharshanab24/Coding/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Sudharshanab24/Coding/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Sudharshanab24/Coding/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Sudharshanab24/Coding/tree/master/0273-integer-to-english-words) |
