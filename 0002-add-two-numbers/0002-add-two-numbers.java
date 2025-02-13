@@ -9,58 +9,44 @@
  * }
  */
 class Solution {
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2)
-    {
-        ListNode t1=l1;
-        ListNode t2=l2;
+    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+        ListNode t1 = l1;
+        ListNode t2 = l2;
 
-        ListNode head=null;
-        ListNode tail=null;
+        ListNode head = null;
+        ListNode tail = null;
 
-        int rem=0;
+        int carry = 0;
 
-        while(t1!=null || t2!=null)
-        {
-            int num=0;
-            
-            if(t1!=null)
-            num=t1.val;
+        while (t1 != null || t2 != null) {
+            int num = carry;  // Reset num at the start of each iteration
 
-            if(t2!=null)
-            num=num+t2.val;
-
-            num=num+rem;
-
-            rem=num/10;
-            
-            ListNode nn=new ListNode(num%10);
-            nn.next=null;
-
-            if(head==null)
-            {
-              head=nn;
-              tail=nn;
+            if (t1 != null) {
+                num += t1.val;
+                t1 = t1.next;
             }
 
-            else
-            {
-              tail.next=nn;
-              tail=nn;
+            if (t2 != null) {
+                num += t2.val;
+                t2 = t2.next;
             }
-            
-            if(t1!=null)
-            t1=t1.next;
 
-            if(t2!=null)
-            t2=t2.next;
+            carry = num / 10;
+            ListNode nn = new ListNode(num % 10);
+
+            if (head == null) {
+                head = nn;
+                tail = nn;
+            } else {
+                tail.next = nn;
+                tail = nn;
+            }
         }
-        
-        if(rem!=0)
-        {
-             ListNode nn=new ListNode(rem);
-             tail.next=nn;
-              tail=nn;
+
+        if (carry != 0) {
+            tail.next = new ListNode(carry);
         }
+
         return head;
     }
 }
