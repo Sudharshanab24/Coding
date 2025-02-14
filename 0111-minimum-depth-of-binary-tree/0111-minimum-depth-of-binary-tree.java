@@ -21,7 +21,7 @@ class Solution {
         int l=minDepth(root.left);
         int r=minDepth(root.right);
 
-        if(Math.min(l,r)==0) return 1+Math.max(l,r);
+        if(root.left==null || root.right==null) return 1+Math.max(l,r);
         else return 1+Math.min(l,r);
         
     }
