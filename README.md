@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Sudharshanab24/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sudharshanab24/Coding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Sudharshanab24/Coding/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/Sudharshanab24/Coding/tree/master/0226-invert-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/Sudharshanab24/Coding/tree/master/0386-lexicographical-numbers) |
 | [0547-number-of-provinces](https://github.com/Sudharshanab24/Coding/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Sudharshanab24/Coding/tree/master/0684-redundant-connection) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sudharshanab24/Coding/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Sudharshanab24/Coding/tree/master/0127-word-ladder) |
 | [0207-course-schedule](https://github.com/Sudharshanab24/Coding/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/Sudharshanab24/Coding/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Sudharshanab24/Coding/tree/master/0279-perfect-squares) |
 | [0407-trapping-rain-water-ii](https://github.com/Sudharshanab24/Coding/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/Sudharshanab24/Coding/tree/master/0547-number-of-provinces) |
@@ -781,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sudharshanab24/Coding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sudharshanab24/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sudharshanab24/Coding/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Sudharshanab24/Coding/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -791,6 +794,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sudharshanab24/Coding/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sudharshanab24/Coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sudharshanab24/Coding/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/Sudharshanab24/Coding/tree/master/0226-invert-binary-tree) |
 ## Brainteaser
 |  |
 | ------- |
