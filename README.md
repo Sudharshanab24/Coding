@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Sudharshanab24/Coding/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Sudharshanab24/Coding/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Sudharshanab24/Coding/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2551-apply-operations-to-an-array](https://github.com/Sudharshanab24/Coding/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sudharshanab24/Coding/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Sudharshanab24/Coding/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Sudharshanab24/Coding/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Sudharshanab24/Coding/tree/master/0941-sort-array-by-parity) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sudharshanab24/Coding/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sudharshanab24/Coding/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2551-apply-operations-to-an-array](https://github.com/Sudharshanab24/Coding/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sudharshanab24/Coding/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Sudharshanab24/Coding/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sudharshanab24/Coding/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Sudharshanab24/Coding/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/Sudharshanab24/Coding/tree/master/0874-backspace-string-compare) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sudharshanab24/Coding/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2551-apply-operations-to-an-array](https://github.com/Sudharshanab24/Coding/tree/master/2551-apply-operations-to-an-array) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Sudharshanab24/Coding/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Sudharshanab24/Coding/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
