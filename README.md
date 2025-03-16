@@ -887,4 +887,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Sudharshanab24/Coding/tree/master/1477-product-of-the-last-k-numbers) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Sudharshanab24/Coding/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
