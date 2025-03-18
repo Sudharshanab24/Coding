@@ -11,7 +11,6 @@ class Solution {
         while(k>0)
             k=k-mh.poll();
         
-
         return mh.size()+(k<0 ? 1:0);
         
     }
