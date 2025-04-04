@@ -464,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Sudharshanab24/Coding/tree/master/0952-word-subsets) |
 | [1039-find-the-town-judge](https://github.com/Sudharshanab24/Coding/tree/master/1039-find-the-town-judge) |
 | [1160-letter-tile-possibilities](https://github.com/Sudharshanab24/Coding/tree/master/1160-letter-tile-possibilities) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sudharshanab24/Coding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1256-rank-transform-of-an-array](https://github.com/Sudharshanab24/Coding/tree/master/1256-rank-transform-of-an-array) |
 | [1364-tuple-with-same-product](https://github.com/Sudharshanab24/Coding/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sudharshanab24/Coding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Sudharshanab24/Coding/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Sudharshanab24/Coding/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sudharshanab24/Coding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sudharshanab24/Coding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sudharshanab24/Coding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Sudharshanab24/Coding/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/Sudharshanab24/Coding/tree/master/1558-course-schedule-iv) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Sudharshanab24/Coding/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/Sudharshanab24/Coding/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/Sudharshanab24/Coding/tree/master/1073-number-of-enclaves) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sudharshanab24/Coding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sudharshanab24/Coding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/Sudharshanab24/Coding/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Sudharshanab24/Coding/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -885,6 +888,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Sudharshanab24/Coding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sudharshanab24/Coding/tree/master/0226-invert-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sudharshanab24/Coding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sudharshanab24/Coding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sudharshanab24/Coding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sudharshanab24/Coding/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
@@ -902,6 +906,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Sudharshanab24/Coding/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Sudharshanab24/Coding/tree/master/0226-invert-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sudharshanab24/Coding/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/Sudharshanab24/Coding/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sudharshanab24/Coding/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Brainteaser
 |  |
