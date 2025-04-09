@@ -7,5 +7,6 @@ class Solution {
     if (mn > k)
       return numsSet.size();
     return numsSet.size() - 1;
+
   }
 }
